@@ -1,0 +1,79 @@
+#div1 {
+  position: relative;
+  display: inline;
+  margin-left: 360px;
+}
+#div5 {
+  margin-left: 250px;
+  margin-top: 50px;
+}
+#div6 {
+  margin-left: 250px;
+  margin-top: 50px;
+}
+#div8 {
+  text-align: center;
+}
+h1 {
+  position: relative;
+  display: inline;
+}
+h2 {
+  color: blue;
+  text-align: center;
+}
+#pawpic {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+body {
+  background-color: coral;
+}
+p {
+  text-align: center;
+  font-size: 1.2em;
+  font-family: cursive;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.pic2 {
+  margin-left: 75px;
+}
+.pic3 {
+  margin-left: 70px;
+}
+.pic5 {
+  margin-left: 75px;
+}
+.pic6 {
+  margin-left: 70px;
+}
+/* #div5 {
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+} */
+#photos {
+  margin-top: 50px;
+}
+#about {
+  margin-top: 50px;
+}
+#testimonies {
+  margin-top: 50px;
+}
+#contact {
+  margin-top: 50px;
+}
+#phone {
+  display: inline;
+}
+#email {
+  display: inline;
+  margin-left: 10px;
+}
+.allpics {
+  width: 200px;
+  height: 200px;
+}
